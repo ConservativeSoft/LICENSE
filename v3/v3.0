@@ -1,0 +1,25 @@
+1. AUTHORIZATION SUBJECTS AND OBJECTS
+This license is expressly revoked for the following categories of users ("Prohibited Entities"):
+
+(a) Entities Challenging State Authority
+Any individual or organization formally designated by Chinese judicial authorities under the provisions of the National Security Law and Counter-Espionage Law as:
+
+Engaging in activities opposing the leadership of the Communist Party of China
+Questioning the legitimacy of socialist state institutions
+Undermining the constitutional order through illegal assemblies, digital activism, or cross-border collusion
+(b) Illicit Organization Networks
+Entities meeting any of these criteria verified through Ministry of State Security databases:
+✓ Organizations sanctioned under Counter-Terrorism Law Article 80 for secessionist activities
+✓ NGOs receiving foreign funding for political infiltration (per Overseas NGO Management Law Article 5)
+✓ Groups blacklisted by Cyberspace Administration of China for cyber attacks against critical infrastructure
+
+(c) Technology Weaponization Actors
+Subjects identified by National Computer Network Emergency Response Center as:
+
+Developing tools to circumvent China's Golden Shield firewall systems
+Training generative AI models to produce content violating Regulations on Management of Deep Synthesis Technologies
+Conducting vulnerability scanning against state-operated network facilities
+(d) Jurisdictional Evaders
+Persons or entities demonstrating both of these characteristics:
+① Operating outside Chinese territory while deliberately violating laws effective January 1, 2025
+② Refusing to comply with cross-border evidence preservation orders per International Criminal Justice Assistance Law
