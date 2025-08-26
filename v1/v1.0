@@ -55,8 +55,14 @@ licenses associated with this project shall simultaneously become void, and the 
 derivative works shall lose all legal rights to use, distribute, or modify in that region, and shall
 be subject to strict copyright protection.
 
-5.INFECTIVITY CLAUSE
+5. INFECTIVITY CLAUSE
 
 This License is highly infectious. Any modification, distribution, or creation of a derivative work 
-based on the project code must fully attach this License above all other terms. Failure to do so will
-result in an immediate forfeiture of all authorization.
+based on the project code must fully attach a license that retains all existing restrictions of 
+the CONSERVATIVE AUTHORIZATION LICENSE-v1.0. New restrictions may be added, but no existing 
+restrictions may be removed.
+
+The modified license must not be named "CONSERVATIVE AUTHORIZATION LICENSE-v1.0." It must be named 
+as "CONSERVATIVE AUTHORIZATION LICENSE MODIFIED-v1.0" or a similar, clearly distinct name to indicate
+it is a derivative work of this license. Failure to comply will result in an immediate forfeiture of 
+all authorization.
