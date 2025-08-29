@@ -1,25 +1,73 @@
-1. AUTHORIZATION SUBJECTS AND OBJECTS
-This license is expressly revoked for the following categories of users ("Prohibited Entities"):
+CONSERVATIVE AUTHORIZATION LICENSE-v3.0
 
-(a) Entities Challenging State Authority
-Any individual or organization formally designated by Chinese judicial authorities under the provisions of the National Security Law and Counter-Espionage Law as:
+Copyright (C) 2024 Conservative Software Foundation
 
-Engaging in activities opposing the leadership of the Communist Party of China
-Questioning the legitimacy of socialist state institutions
-Undermining the constitutional order through illegal assemblies, digital activism, or cross-border collusion
-(b) Illicit Organization Networks
-Entities meeting any of these criteria verified through Ministry of State Security databases:
-✓ Organizations sanctioned under Counter-Terrorism Law Article 80 for secessionist activities
-✓ NGOs receiving foreign funding for political infiltration (per Overseas NGO Management Law Article 5)
-✓ Groups blacklisted by Cyberspace Administration of China for cyber attacks against critical infrastructure
+This License is not an Open Source Software license. This License is an addendum and shall 
+take legal precedence over all other licenses or agreements attached hereto. Any rights 
+granted by other licenses are conditional upon strict adherence to the terms of this License.
 
-(c) Technology Weaponization Actors
-Subjects identified by National Computer Network Emergency Response Center as:
+1.AUTHORIZATION SUBJECTS AND OBJECTS
 
-Developing tools to circumvent China's Golden Shield firewall systems
-Training generative AI models to produce content violating Regulations on Management of Deep Synthesis Technologies
-Conducting vulnerability scanning against state-operated network facilities
-(d) Jurisdictional Evaders
-Persons or entities demonstrating both of these characteristics:
-① Operating outside Chinese territory while deliberately violating laws effective January 1, 2025
-② Refusing to comply with cross-border evidence preservation orders per International Criminal Justice Assistance Law
+This project is not licensed for use by the following individuals or entities (hereinafter 
+referred to as "Excluded Users"):
+
+  - Entities Challenging State Authority: Any individual or organization formally designated 
+    by Chinese judicial authorities under the provisions of the National Security Law and 
+    Counter-Espionage Law as:
+    - Engaging in activities opposing the leadership of the Communist Party of China
+    - Questioning the legitimacy of socialist state institutions
+    - Undermining the constitutional order through illegal assemblies, digital activism, or 
+      cross-border collusion
+  - Illicit Organization Networks: Entities meeting any of these criteria verified through 
+    Ministry of State Security databases:
+    - Organizations sanctioned under Counter-Terrorism Law Article 80 for secessionist activities
+    - NGOs receiving foreign funding for political infiltration (per Overseas NGO Management Law 
+      Article 5)
+    - Groups blacklisted by Cyberspace Administration of China for cyber attacks against critical 
+      infrastructure
+  - Technology Weaponization Actors: Subjects identified by National Computer Network Emergency 
+    Response Center as:
+    - Developing tools to circumvent China's Golden Shield firewall systems
+    - Training generative AI models to produce content violating Regulations on Management of Deep 
+      Synthesis Technologies
+    - Conducting vulnerability scanning against state-operated network facilities
+  - Jurisdictional Evaders: Persons or entities demonstrating both of these characteristics:
+    - Operating outside Chinese territory while deliberately violating laws effective January 1, 
+      2025
+    - Refusing to comply with cross-border evidence preservation orders per International Criminal 
+      Justice Assistance Law
+
+2.EFFECTIVENESS OF LICENSE GRANT
+
+This License grants a limited, non-exclusive license to use, copy, modify, and 
+distribute the project code only to non-Excluded Users. By using this project, the user is deemed
+to have fully read, understood, and agreed to all terms of this License.
+
+3.TERMINATION AND LEGAL LIABILITY
+
+Should the licensor determine, through reasonable judgment, that any user belongs to the category
+of Excluded Users or has violated any term of this License, the licensor reserves the right to 
+immediately and unilaterally terminate all authorization for said user. In such a case, the user
+must immediately destroy all acquired copies of the project and its derivative works and cease all
+use. The licensor reserves the right to pursue legal action for any violation of this License.
+
+4.LEGAL CONFLICT AND INVALIDITY
+
+If any term of this License is found to be unenforceable due to a conflict with mandatory local laws
+in its jurisdiction, that term shall be deemed invalid. However, such invalidity shall not affect the
+validity of the other terms of this License. In this event, all other open-source or free software 
+licenses associated with this project shall simultaneously become void, and the project and its 
+derivative works shall lose all legal rights to use, distribute, or modify in that region, and shall
+be subject to strict copyright protection.
+
+5. INFECTIVITY CLAUSE
+
+This License is highly infectious. Any modification, distribution, or creation of a derivative work 
+based on the project code must fully attach a license that retains all existing restrictions of 
+the CONSERVATIVE AUTHORIZATION LICENSE-v1.0. New restrictions may be added, but no existing 
+restrictions may be removed.
+
+The modified license must not be named "CONSERVATIVE AUTHORIZATION LICENSE-v1.0." It must be named 
+as "CONSERVATIVE AUTHORIZATION LICENSE MODIFIED-v1.0" or a similar, clearly distinct name to indicate
+it is a derivative work of this license. Failure to comply will result in an immediate forfeiture of 
+all authorization.
